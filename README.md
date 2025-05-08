@@ -3,19 +3,23 @@
 ## PRINCIPAL
 ![image](https://github.com/user-attachments/assets/9563c58c-3cd3-4baa-8508-9d16d31b4507)
 
-## Animated Opacity - Pagina uno
-![image](https://github.com/user-attachments/assets/f22eb6f2-0742-42b7-ac2e-306e2ea2c81f)
-![image](https://github.com/user-attachments/assets/954e2e2b-10fe-4f9e-a15c-5997d779b4c0)
+## - Pagina uno
+![image](https://github.com/user-attachments/assets/3b8205cb-9470-4fae-8abe-a4dd05e7a039)
+![image](https://github.com/user-attachments/assets/550acc2e-b283-42dd-ab4b-1f15c7c9585b)
 
-## Animated Switcher - Pagina dos
-![image](https://github.com/user-attachments/assets/5000358c-ec19-43d9-9486-6041351ee3c5)
-![image](https://github.com/user-attachments/assets/c348438c-0bac-4ae5-9e02-fc2ef9b53864)
+## - Pagina dos
+![image](https://github.com/user-attachments/assets/6bae51d0-3726-4104-b72b-73729b0bd4aa)
+![image](https://github.com/user-attachments/assets/44b1ddd8-cb0c-4965-b1de-a37c536b31fe)
 
-## Center - Pagina tres
-![image](https://github.com/user-attachments/assets/afb4b498-6677-40ec-8223-57ea814f8d1e)
+## - Pagina tres
+![image](https://github.com/user-attachments/assets/b78f0b78-d43a-4d34-bee8-98fc9a26b28f)
+![image](https://github.com/user-attachments/assets/ffaab06b-bbad-4650-818c-fd74db69c29a)
 
-## Circular Progress - Pagina cuatro
-![image](https://github.com/user-attachments/assets/9af6d8bb-0dfc-47dd-be63-42dc08ec2014)
+## - Pagina cuatro
+![image](https://github.com/user-attachments/assets/9ad9a2c6-bdf9-4f8f-8f48-ca28d1ef0d01)
 
-## Cupertino- Pagina cinco
-![image](https://github.com/user-attachments/assets/732ddf5b-5811-4535-aecc-4e5ca1fc66d4)
+## - Pagina cinco
+![image](https://github.com/user-attachments/assets/6b9f0313-4402-4790-af11-853eb6b47395)
+![image](https://github.com/user-attachments/assets/f02fe0a4-99bc-4453-af5a-d857b15490d6)
+
+
