@@ -1,19 +1,21 @@
 # UII_Examen
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## PRINCIPAL
+![image](https://github.com/user-attachments/assets/9563c58c-3cd3-4baa-8508-9d16d31b4507)
 
-## Getting Started
+## Animated Opacity - Pagina uno
+![image](https://github.com/user-attachments/assets/f22eb6f2-0742-42b7-ac2e-306e2ea2c81f)
+![image](https://github.com/user-attachments/assets/954e2e2b-10fe-4f9e-a15c-5997d779b4c0)
 
-A few resources to get you started if this is your first Flutter project:
+## Animated Switcher - Pagina dos
+![image](https://github.com/user-attachments/assets/5000358c-ec19-43d9-9486-6041351ee3c5)
+![image](https://github.com/user-attachments/assets/c348438c-0bac-4ae5-9e02-fc2ef9b53864)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Center - Pagina tres
+![image](https://github.com/user-attachments/assets/afb4b498-6677-40ec-8223-57ea814f8d1e)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Circular Progress - Pagina cuatro
+![image](https://github.com/user-attachments/assets/9af6d8bb-0dfc-47dd-be63-42dc08ec2014)
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Cupertino- Pagina cinco
+![image](https://github.com/user-attachments/assets/732ddf5b-5811-4535-aecc-4e5ca1fc66d4)
